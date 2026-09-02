@@ -1,0 +1,11 @@
+```
+# Temp files
+content_factory/scripts/temp/
+
+# Output files
+content_factory/scripts/output/
+```node_modules/
+.next/
+dist/
+build/
+*.log
